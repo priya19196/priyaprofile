@@ -2,6 +2,7 @@
  *  Draco HTML Template by @afnizarnur
  *  License: Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)
  */
+
 h1,
 h2,
 h3,
@@ -9,19 +10,19 @@ h4,
 h5,
 h6 {
   font-family: "Playfair Display SC", serif;
-  color: #a7a7a7;
+  color: #333;
 }
 a,
 p,
 li {
   font-family: "Lato", Arial, sans-serif;
-  color: #a7a7a7;
+  color: #4e4e4e;
   font-size: 1em;
   line-height: 1.75em;
 }
 a:hover {
   text-decoration: none !important;
-  color: #a7a7a7 !important;
+  color: #333 !important;
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   -ms-transition: all 0.2s ease-in-out;
@@ -140,7 +141,7 @@ a:hover {
   top: -150px;
   font-size: 270px;
   z-index: -1;
-  color: #a7a7a7;
+  color: #dbd8d8;
 }
 .intro h1 span {
   font-size: 47px;
@@ -151,14 +152,14 @@ a:hover {
 .work .work-list li {
   list-style: none;
   font-size: 0.9375em;
-  color: #a7a7a7;
+  color: #8c8c8c;
 }
 .work .work-list li a {
   padding-bottom: 5px;
   font-size: 1.1875em;
   font-weight: 700;
   text-decoration: none;
-  border-bottom: 1px solid #a7a7a7;
+  border-bottom: 1px solid #b3b3b3;
 }
 .work .work-list li a:hover {
   border-bottom: 1px solid #333;
@@ -168,14 +169,14 @@ a:hover {
 }
 .award .award-list li:first-child {
   font-size: 0.9375em;
-  color: #a7a7a7;
+  color: #8c8c8c;
 }
 .skills .skill-list {
   margin-left: 0px;
 }
 .skills .skill-list li:first-child {
   font-size: 0.9375em;
-  color: #a7a7a7;
+  color: #8c8c8c;
 }
 
 .quote h3 {
@@ -194,11 +195,14 @@ footer .social li {
 }
 footer .social li a {
   font-size: 1.25em;
-  color: #a7a7a7;
+  color: #999;
+}
+body {
+  background: #fff url("https://subtlepatterns.com/patterns/gplaypattern.png")
+    repeat;
 }
 .avatar {
   width: calc(100% / 3.5);
   height: 240px;
   margin: 2%;
 }
-
