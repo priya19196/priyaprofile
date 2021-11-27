@@ -9,7 +9,7 @@ h4,
 h5,
 h6 {
   font-family: "Playfair Display SC", serif;
-  color: #402;
+  color: #a7a7a7;
 }
 a,
 p,
@@ -140,7 +140,7 @@ a:hover {
   top: -150px;
   font-size: 270px;
   z-index: -1;
-  color: #fff;
+  color: #a7a7a7;
 }
 .intro h1 span {
   font-size: 47px;
@@ -151,14 +151,14 @@ a:hover {
 .work .work-list li {
   list-style: none;
   font-size: 0.9375em;
-  color: #fff;
+  color: #a7a7a7;
 }
 .work .work-list li a {
   padding-bottom: 5px;
   font-size: 1.1875em;
   font-weight: 700;
   text-decoration: none;
-  border-bottom: 1px solid #fff;
+  border-bottom: 1px solid #a7a7a7;
 }
 .work .work-list li a:hover {
   border-bottom: 1px solid #333;
@@ -168,14 +168,14 @@ a:hover {
 }
 .award .award-list li:first-child {
   font-size: 0.9375em;
-  color: #fff;
+  color: #a7a7a7;
 }
 .skills .skill-list {
   margin-left: 0px;
 }
 .skills .skill-list li:first-child {
   font-size: 0.9375em;
-  color: #fff;
+  color: #a7a7a7;
 }
 
 .quote h3 {
@@ -194,7 +194,7 @@ footer .social li {
 }
 footer .social li a {
   font-size: 1.25em;
-  color: #fff;
+  color: #a7a7a7;
 }
 .avatar {
   width: calc(100% / 3.5);
