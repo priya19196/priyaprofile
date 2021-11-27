@@ -176,7 +176,7 @@ a:hover {
 }
 .skills .skill-list li:first-child {
   font-size: 0.9375em;
-  color: #8c8c8c;
+  color: #fff;
 }
 
 .quote h3 {
@@ -195,11 +195,7 @@ footer .social li {
 }
 footer .social li a {
   font-size: 1.25em;
-  color: #999;
-}
-body {
-  background: #fff url("https://subtlepatterns.com/patterns/gplaypattern.png")
-    repeat;
+  color: #fff;
 }
 .avatar {
   width: calc(100% / 3.5);
